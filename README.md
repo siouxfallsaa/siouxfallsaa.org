@@ -9,8 +9,8 @@ provides a basic starting point for building AA-focused websites using Hugo
 Documentation
 -------------
 
-- [Common Maintenance Tasks](https://github.com/recoverysource/aamod/wiki/Maintenance)
-- [Deploy New Website](https://github.com/recoverysource/aamod/wiki/New-Website)
+- [Common Maintenance Tasks](https://recoverysource.github.io/aamod/website.html)
+- [Deploy New Website](https://recoverysource.github.io/aamod/website.html#new-website)
 - To Do (link to localized documentation)
 
 Note: Use ``git submodule update --init --recursive`` after a fresh ``git clone``.
