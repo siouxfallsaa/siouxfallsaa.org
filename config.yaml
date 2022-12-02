@@ -1,0 +1,76 @@
+baseURL: https://siouxfallsaa.org/
+title: Sioux Falls Area
+
+languageCode: en-us
+theme: [d5, aamod, mainroad]
+sectionPagesMenu: main
+paginate: 100
+buildFuture: true
+
+Params:
+  description: Area 63 District 5 (& neighbors) A.A. (Sioux Falls Area)
+  source: https://github.com/siouxfallsaa/siouxfallsaa.org/tree/master
+  mapapikey: AIzaSyBmA1S3MDI9CG8ahqzNje2Jy_yaWKfh7Ww
+  mapcenter: {lat: 43.536388, lng: -96.731667}
+  mapzoom: 8.5
+  copyright: Sioux Falls Intergroup
+  phone: 605-274-1450
+  logo:
+    image: img/AAlogo.png
+    title: Sioux Falls Area A.A.
+  toc: true
+  mainSections: [home, meetings, about, events]
+  sidebar:
+    single: right
+    home: right
+    widgets: [resources, eventsidemenu, aasites]
+  widgets:
+
+    resources:
+      - title: Meeting Schedule
+        url: /meeting-schedule.pdf
+      - title: Big Book PDF
+        url: /resources/AA_BigBook-4th.pdf
+      - title: Daily Reflections PDF
+        url: /resources/Daily_Reflections.pdf
+      - title: Regional Websites
+        url: /regional-websites/
+      - title: Regional Hotlines
+        url: /regional-hotlines/
+
+    aasites:
+      - title: A.A. Area 63 (S.D.)
+        url: https://area63aa.org/
+      - title: A.A. World Services
+        url: https://www.aa.org/
+      - title: Big Book Online
+        url: https://www.aa.org/bigbookonline/
+      - title: A.A. Grapevine
+        url: http://www.aagrapevine.org/
+
+markup:
+  goldmark:
+    renderer:
+      # Permit raw HTML in content
+      unsafe: true
+
+pdf-blurbs:
+  front: |
+    \vskip 2ex {\footnotesize If you have changes to this directory, please write to:}
+    \vskip 1ex {\large Sioux Falls Area Intergroup\\
+    P.O. Box 182\\
+    Sioux Falls, SD 57101}
+  alanon: |
+    {\7pt Al-Anon members are people who are worried about someone with a drinking problem.}\\
+    {\7pt\textbf{24-Hour Hotline:} (605) 679-5497}\\
+    {\7pt\textbf{Al-Anon Information:} al-anon.org}
+  resources: |
+    {\7pt\textbf{Local Area:} siouxfallsaa.org/meeting-times}\\
+    {\7pt\textbf{South Dakota State:} www.area63.org}\\
+    {\7pt\textbf{Iowa State:} www.aa-iowa.org}\\
+    {\7pt\textbf{Southern Minnesota:} www.area36.org}
+  details: |
+    \textbf{Sioux Falls Area Intergroup}\\
+    Meets at: Westside AA\\
+    1509 West 1st Street\\
+    {\6pt Every 2nd Sunday of the month at 4:30 PM}

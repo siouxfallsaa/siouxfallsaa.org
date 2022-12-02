@@ -18,3 +18,8 @@ generate the page using the "``shortname``" from ``data/meetings.yml``.
 
 This example document is a draft, set by ``draft: true`` in the header. That
 will prevent this page from being published.
+
+The [events](https://github.com/siouxfallsaa/aamod/tree/master/exampleSite/content/events)
+directory in the [aamod](https://github.com/siouxfallsaa/aamod) theme provides
+example files that can be used to create custom events. Remember to remove any
+instance of ``draft: true`` in the file if it should be published.
