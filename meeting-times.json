@@ -1470,6 +1470,29 @@
         "country": "US"
     },
     {
+        "name": "Young Guns AA",
+        "slug": "d5-youngguns-Sunday-19:30",
+        "day": 0,
+        "time": "19:30",
+        "timezone": "America/Central",
+        "location": "Calvary Episcopal Church",
+        "notes": "Use the north door on 13th St.\n<br>Last Sunday of the month is an Open Speaker meeting.\n",
+        "region": "Sioux Falls Area",
+        "url": "https://siouxfallsaa.org/meetings/d5-youngguns",
+        "types": [
+            "EN",
+            "C",
+            "ST",
+            "X"
+        ],
+        "approximate": false,
+        "address": "500 S Main Ave",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "postal_code": "57104",
+        "country": "US"
+    },
+    {
         "name": "Rainbow Wildbunch AA",
         "slug": "d5-rainbow-wildbunch-Tuesday-19:00",
         "day": 2,
