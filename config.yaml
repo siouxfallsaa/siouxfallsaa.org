@@ -47,6 +47,8 @@ Params:
         url: https://www.aa.org/bigbookonline/
       - title: A.A. Grapevine
         url: http://www.aagrapevine.org/
+      - title: Helpline Center
+        url: https://www.helplinecenter.org/
 
 markup:
   goldmark:
