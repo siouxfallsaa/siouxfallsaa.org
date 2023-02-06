@@ -1,6 +1,9 @@
 <div class="widget-resources widget">
 	<a href="https://github.com/area63aa/confidental-material"><h4 class="widget-resources widget__title">{{ T "resources_title" }}</h4></a>
 	<div class="widget-resources widget__item">
+		<b>Helpline Center: </b><span class="content"><a href="tel:211">Dial 211</a></span>
+	</div>
+	<div class="widget-resources widget__item">
 		<b>24-Hour Help: </b><span class="content"><a href="tel:{{ .Site.Params.phone | default "1-800-662-4357" }}">{{ .Site.Params.phone | default "1-800-662-4357" }}</a></span>
 	</div>
 	{{- if .Site.Params.widgets.resources }}{{ range .Site.Params.widgets.resources }}
