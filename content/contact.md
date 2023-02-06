@@ -17,4 +17,4 @@ menu:
 
 **Disrict 5 A.A.** meets at 6:00PM following the Intergroup meeting.
 
-**NOTE:** Although partially sponsored by both groups, this website is currently not being maintained. All continued updates are delivered automatically from https://area63aa.org/.
+**NOTE:** Although partially sponsored by both groups, this website is currently not being maintained. All continued updates are delivered automatically from https://area63aa.org/ ([meeting data](https://github.com/area63aa/area63aa.org/tree/master/data/meetings)).
