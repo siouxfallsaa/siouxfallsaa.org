@@ -13,3 +13,7 @@ data/geos.yaml
 .hugo_build.lock
 /resources
 site
+
+# pulled from area63aa
+data/meetings
+area63aa

@@ -23,7 +23,7 @@ Params:
   sidebar:
     single: right
     home: right
-    widgets: [resources, eventsidemenu, aasites]
+    widgets: [resources, eventsidemenu, aasites, meetingupdates]
   widgets:
 
     resources:
