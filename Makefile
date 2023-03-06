@@ -18,7 +18,7 @@ gen_content: data/meetings
 
 data/meetings: area63aa
 	mkdir data/meetings
-	cp $(shell grep -l 'district: 5' area63aa/data/meetings/*) data/meetings/
+	cp area63aa/data/meetings/d5-* data/meetings/
 
 area63aa:
 	git clone https://github.com/area63aa/area63aa.org.git area63aa
