@@ -27,10 +27,6 @@ Params:
   widgets:
 
     resources:
-      - title: Meeting Schedule
-        url: /meeting-schedule.pdf
-      - title: Big Book PDF
-        url: /resources/AA_BigBook-4th.pdf
       - title: Daily Reflections PDF
         url: /resources/Daily_Reflections.pdf
       - title: Regional Websites
