@@ -140,15 +140,3 @@
 .footer a {
 	color: #93cddd;
 }
-
-/**
- * Printer-Friendly
- **/
-
-@media print {
-	nav.menu,
-	aside.sidebar,
-	div.toc {
-		display: none !important;
-	}
-}
