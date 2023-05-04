@@ -27,8 +27,8 @@ Params:
   widgets:
 
     resources:
-      - title: Daily Reflections PDF
-        url: /resources/Daily_Reflections.pdf
+      - title: Meeting Schedule
+        url: /meeting-schedule.pdf
       - title: Regional Websites
         url: /regional-websites/
       - title: Regional Hotlines
